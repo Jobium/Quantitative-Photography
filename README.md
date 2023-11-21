@@ -18,6 +18,10 @@ CellProfiler scripts require the CellProfiler program, available for free from h
  -  Object diameter min/max in IdentifyPrimaryObjects module may need to be adjusted to reflect differences in image size/resolution
  -  Threshold scaling factor, lower/upper bounds for threshold in IdentifyPrimaryObjects may need to be adjusted to reflect differences in image brightness & dynamic range
 2) Statistical analysis and visualisation of measured object parameters (from CellProfiler) were done using Python script 'object_analysis_v01.py'
+ - update variable 'Data_dir' to directory containing calibrated images for processing
+ - update variable 'Figure_dir' to directory for saving figure images
+ - update variable 'Output_dir' to directory for saving output data files
+ - update variable 'Img_Res' to resolution of processed images (in millimeters/pixel)
 
 # Citations:
 If you use this script, please cite Razzell Hollis et al., Methods in Ecology & Evolution (2023).
