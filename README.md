@@ -7,7 +7,7 @@ Written by Dr Joseph Razzell Hollis on 2023-07-24. Details and assessment of the
 
 Any updates to this script will be made available online at www.github.com/Jobium/Quantitative-Photography/
 
-Python code requires Python 3.7 (or higher) and the following packages: os glob numpy pandas matplotlib scipy skimage sklearn mpl_toolkits itertools
+Python code requires Python 3.7 (or higher) and the following packages: os, glob, numpy, pandas, matplotlib, scipy, skimage, sklearn, mpl_toolkits, itertools.
 CellProfiler scripts require the CellProfiler program, available for free from https://cellprofiler.org 
 
 # Notes:
